@@ -1,0 +1,6 @@
+AAA
+ABB
+CCC
+ACB
+ACC
+ABA
